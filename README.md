@@ -1,6 +1,6 @@
 ### Olá, sou Pedro Henrique! ✌️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/pedro-silva-12022001/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-12022001/)
 
 #### Dev em crescimento e apaixonado por tecnologia!
 
